@@ -1,3 +1,3 @@
 # GalleryTreasure
 
-Build website using laravel. (Gallery, Portfolio, Blog)
+Build simple website using laravel. (Gallery, Portfolio, Blog)
