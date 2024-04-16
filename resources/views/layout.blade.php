@@ -1,3 +1,4 @@
+<!-- main view page -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
